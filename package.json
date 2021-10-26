@@ -1,0 +1,22 @@
+{
+  "name": "codee-s-personal-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Codee's Personal Website",
+  "author": "Codee King",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
